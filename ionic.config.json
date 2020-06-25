@@ -1,0 +1,7 @@
+{
+  "name": "ionic-peerjs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
